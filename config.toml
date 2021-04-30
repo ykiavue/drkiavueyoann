@@ -1,4 +1,4 @@
-baseURL = "https://608bcc76fe2205000894cc31--relaxed-cori-e0e372.netlify.app/"
+baseURL = "https://relaxed-cori-e0e372.netlify.app/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
