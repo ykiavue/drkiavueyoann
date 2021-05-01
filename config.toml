@@ -1,15 +1,17 @@
+# Global
 baseURL = "https://drkiavueyoann.com/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "Dr Kiavue Yoann"
+
 # Main Menu
 [[menu.main]]
-name = "Home"
+name = "Accueil"
 url = "#home"
 weight = 1
 [[menu.main]]
-name = "About"
+name = "À propos"
 url = "#about"
 weight = 2
 [[menu.main]]
@@ -36,7 +38,7 @@ weight = 7
 # Sitemap Menu
 [[menu.sitemap]]
 name = "About me"
-url = "about"
+url = "#about"
 weight = 1
 [[menu.sitemap]]
 name = "Frequently Ask Question"
@@ -51,28 +53,31 @@ name = "Latest Article"
 url = "#"
 weight = 4
 
+# Params
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright © Portio 2020"
 footerLogo = "images/contact/widget-logo.png"
-formspreeURL = "YOUR FORMSPREE URL"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+formspreeURL = ""
+googleAnalytics = ""
 logo = "images/site-navigation/logo.png"
 
+# Address
 [params.address]
 address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
+email = "cardiologie@dryoannkiavue.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 phone = "+(448) 833 5272 332"
 
+# Map
 [params.map]
-APIkey = "YOUR GOOGLE MAP API"
+APIkey = ""
 latitude = "23.7783741"
 longitude = "90.3746808"
 pinImage = "images/pin.png"
 
-# Social icons
+# Social
 [[params.social]]
 icon = "fa-facebook-official"
 url = "https://www.facebook.com/"
