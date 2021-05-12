@@ -29,5 +29,19 @@ fields:
 - type: text
   name: videoURL
   label: videoURL
+- name: topTitle
+  type: text
+  config:
+    required: false
+  label: topTitle
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: content
 pages:
 - data/hero.yml
