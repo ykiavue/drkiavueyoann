@@ -1,11 +1,8 @@
-# Global
 baseURL = "https://drkiavueyoann.com/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
 title = "Dr Kiavue Yoann"
-
-# Main Menu
 [[menu.main]]
 name = "Accueil"
 url = "#home"
@@ -34,8 +31,6 @@ weight = 6
 name = "Contact"
 url = "#contact"
 weight = 7
-
-# Sitemap Menu
 [[menu.sitemap]]
 name = "About me"
 url = "#"
@@ -52,8 +47,6 @@ weight = 3
 name = "Latest Article"
 url = "#"
 weight = 4
-
-# Params
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
@@ -62,22 +55,16 @@ footerLogo = "images/contact/widget-logo.png"
 formspreeURL = ""
 googleAnalytics = ""
 logo = "images/site-navigation/logo.png"
-
-# Address
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "cardiologie@dryoannkiavue.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
-
-# Map
+address = "Pole Epsilon III, 87 avenue Archimède, 83700 Saint Raphaël"
+email = "zohra-el@dryoannkiavue.com"
+openingHours = "Ouvert de 9h00 à 18h00"
+phone = "0612345678"
 [params.map]
 APIkey = ""
 latitude = "23.7783741"
 longitude = "90.3746808"
 pinImage = "images/pin.png"
-
-# Social
 [[params.social]]
 icon = "fa-facebook-official"
 url = "https://www.facebook.com/"
