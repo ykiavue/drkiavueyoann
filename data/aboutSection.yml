@@ -1,16 +1,18 @@
 ---
 enable: true
 topTitle: À propos
-title: |
-  ## About me
-  Enjoy team diversity and increase their networks among others people in various fields by provided.
+title: "## Ma priorité, en tant que médecin est avant tout d'aider chaque patient,
+  grâce à mon expertise et ma formation continue, à être chaque jour en meilleure
+  santé."
 content: |
-  ### I design and build ultimate things.
-  I love to work in User Experience & User Interface designing. Because I love to solve the design problem and find easy and better solutions to solve it. I always try my best to make good user interface with the best user experience. I have been working as a Visual designer from.
-button1Name: Hire me
-button2Name: Download CV
+  ### En tant que cardiolgue,
+  Je prends en charge toutes les pathologies cardio-vasculaires et m'occupe de la prévention et du traitement des facteurs de risques cardio-vasculaires.
+button1Name: 'Prendre rendez vous '
+button2Name: ''
 button1Target: contact
 button2Target: contact
 image: images/about/about-img.jpg
-subtitle: ''
+subtitle: Ma priorité, en tant que médecin est avant tout d'aider chaque patient,
+  grâce à mon expertise et ma formation continue, à être chaque jour en meilleure
+  santé.
 title2: ''
