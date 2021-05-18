@@ -1,12 +1,14 @@
 ---
 enable: true
-topTitle: Docteur Kiavué Yoann
-content: "# Cardiologue Libéral "
+topTitle: Docteur Yoann Kiavué
+content: |-
+  # Cardiologue
+  Médecin spécialiste du coeur et des gros vaisseaux
 buttonName: 'Prendre Rendez-Vous '
 buttonURL: www.google.fr
 image: images/hero/2960351.jpg
 videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+videoURL: ''
 title: ''
 subtitle: ''
 description: ''
