@@ -4,49 +4,49 @@ paginate = 6
 theme = "portio"
 title = "Dr Kiavue Yoann"
 [[menu.main]]
-name = "Accueil"
-url = "#home"
-weight = 1
+name = "Nous contacter"
+url = "#contact"
+weight = 7
 [[menu.main]]
-name = "À propos"
-url = "#about"
-weight = 2
-[[menu.main]]
-name = "Service"
-url = "#service"
-weight = 3
-[[menu.main]]
-name = "Work"
-url = "#portfolio"
-weight = 4
-[[menu.main]]
-name = "Resume"
-url = "#resume"
-weight = 5
-[[menu.main]]
-name = "Blog"
+name = "Article "
 url = "#blog"
 weight = 6
 [[menu.main]]
-name = "Contact"
-url = "#contact"
-weight = 7
-[[menu.sitemap]]
-name = "About me"
-url = "#"
+name = "Formation / Expérience"
+url = "#resume"
+weight = 5
+[[menu.main]]
+name = "Partie à supprimer"
+url = "#portfolio"
+weight = 4
+[[menu.main]]
+name = "Expertise"
+url = "#service"
+weight = 3
+[[menu.main]]
+name = "Vision"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Accueil"
+url = "#home"
 weight = 1
 [[menu.sitemap]]
-name = "Frequently Ask Question"
+name = "Latest Article"
 url = "#"
-weight = 2
+weight = 4
 [[menu.sitemap]]
 name = "Privacy & Policy"
 url = "#"
 weight = 3
 [[menu.sitemap]]
-name = "Latest Article"
+name = "Frequently Ask Question"
 url = "#"
-weight = 4
+weight = 2
+[[menu.sitemap]]
+name = "About me"
+url = "#"
+weight = 1
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
