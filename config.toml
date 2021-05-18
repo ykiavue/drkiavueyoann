@@ -4,7 +4,7 @@ paginate = 6
 theme = "portio"
 title = "Dr Kiavue Yoann"
 [[menu.main]]
-name = "Nous contacter"
+name = "Contact"
 url = "#contact"
 weight = 7
 [[menu.main]]
@@ -16,7 +16,7 @@ name = "Formation / Expérience"
 url = "#resume"
 weight = 5
 [[menu.main]]
-name = "Partie à supprimer"
+name = "Delate"
 url = "#portfolio"
 weight = 4
 [[menu.main]]
