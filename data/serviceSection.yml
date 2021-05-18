@@ -1,45 +1,34 @@
 ---
 enable: true
-topTitle: Working Area
-title: >
-  ## Creative Services
-
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+topTitle: 'Mon expertise '
+title: "## Les différents examens complémentaires "
 service:
-  - content: >
-      #### UI/UX Design 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
-  - content: >
-      #### Creative Design 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/creative.svg
-  - content: >
-      #### Branding
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/branding.svg
-  - content: >
-      #### UI/UX Design
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
+- content: "#### Electrocardiogramme \nPermet d'enregistrer l'activité électrique
+    cardiaque\n"
+  image: ''
+  title: 'Electrocardiogramme '
+- content: |
+    #### Echocardiographie
+    permet de visualiser l'intérieur du cœur et l'ensemble des structures qui le composent afin d'apprécier son fonctionnement
+  image: images/service/web.svg
+  title: Echocardiographeie
+- content: "#### Creative Design \nLorem ipsum dolor sit amet conset sadipscing elitr,
+    sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.\n"
+  image: images/service/creative.svg
+  title: ''
+- content: |
+    #### Branding
+    Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
+  image: images/service/branding.svg
+  title: ''
+- content: |
+    #### UI/UX Design
+    Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
+  image: images/service/ui-ux.svg
+  title: ''
+- content: |
+    #### Web Development
+    Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
+  image: images/service/web.svg
+  title: ''
+subtitle: ''
