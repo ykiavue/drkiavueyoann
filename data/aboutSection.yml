@@ -11,7 +11,7 @@ button1Name: 'Prendre rendez vous '
 button2Name: ''
 button1Target: contact
 button2Target: contact
-image: images/about/about-img.jpg
+image: "/images/img_20200416_192721.jpg"
 subtitle: Ma priorité, en tant que médecin est avant tout d'aider chaque patient,
   grâce à mon expertise et ma formation continue, à être chaque jour en meilleure
   santé.
